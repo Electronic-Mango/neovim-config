@@ -1,0 +1,16 @@
+{
+  "plugins": {
+    "catppuccin": {
+      "rev": "8edd468af4d63212b84d69b2ddb5ffc9023ef5eb",
+      "src": "https://github.com/catppuccin/nvim"
+    },
+    "fugitive": {
+      "rev": "3b753cf8c6a4dcde6edee8827d464ba9b8c4a6f0",
+      "src": "https://github.com/tpope/vim-fugitive"
+    },
+    "fzf-lua": {
+      "rev": "c8aaa74c97157b2c62bdcfc1e57b15c052dc63ca",
+      "src": "https://github.com/ibhagwan/fzf-lua"
+    }
+  }
+}
