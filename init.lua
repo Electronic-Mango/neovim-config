@@ -1,1 +1,3 @@
-require("custom")
+require("keymaps")
+require("plugins")
+require("sets")
